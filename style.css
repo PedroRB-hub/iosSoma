@@ -1,0 +1,26 @@
+/* #F9F5EB #E4DCCF #EA5455 #002B5B  */
+body {
+  background-color: #E4DCCF;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  font-weight: 100;
+  letter-spacing: 1.3px;
+}
+
+input {
+  font-size: 1.5rem;
+  border: 0px;
+  border-radius: 7px;
+  padding: 5px;
+  width: 100px;
+  text-align: end;
+  box-shadow: 2px 2px 3px gray;
+}
+
+main {
+  width: 500px;
+  margin: 40px auto;
+  text-align: center;
+}
